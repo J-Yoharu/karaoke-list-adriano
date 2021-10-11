@@ -1,6 +1,6 @@
 {
   "type": "lista de musica",
-  "version": "35C",
+  "version": "36A",
   "data": [
     {
       "cantor": "19",
@@ -79283,6 +79283,566 @@
       "titulo": "AINDA É TEMPO PRA SER FELIZ",
       "inicio": "Me cansei de ficar mudo",
       "cartucho": "35B"
+    },
+    {
+      "cantor": "Alexandre Pires - Ivete Sangalo",
+      "cod": "17047",
+      "titulo": "ESTRELA CADENTE (HUNTING HIGH AND LOW)",
+      "inicio": "Dia noite e céu",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Altay Veloso",
+      "cod": "17055",
+      "titulo": "ENTRA E SAI DE AMOR",
+      "inicio": "Baby a emoção me trouxe aqui",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Amado Batista - Reginaldo Sodré",
+      "cod": "17061",
+      "titulo": "A ÚNICA",
+      "inicio": "Sempre quando eu chego em casa",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Ana Gabriela - Melim",
+      "cod": "17077",
+      "titulo": "NÃO TE LARGO, NÃO TE TROCO",
+      "inicio": "Sabe quando a gente fica bobo",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Araketu",
+      "cod": "17100",
+      "titulo": "TELEFONA",
+      "inicio": "O que eu sinto por você",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Axé Blond",
+      "cod": "17050",
+      "titulo": "PEGA ESSA LEVADA",
+      "inicio": "Nesse compasso você vai ter que aprender",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Balão Mágico (A turma do)",
+      "cod": "17046",
+      "titulo": "MÃE-IÊ",
+      "inicio": "Manhê sabe o que me aconteceu",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Barão Vermelho",
+      "cod": "17063",
+      "titulo": "ENQUANTO ELA NÃO CHEGAR",
+      "inicio": "Quantas coisas eu ainda vou provar",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Beth Carvalho",
+      "cod": "17081",
+      "titulo": "ACREDITAR",
+      "inicio": "Acreditar eu não recomeçar jamais",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Beth Carvalho - Zeca Pagodinho",
+      "cod": "17053",
+      "titulo": "CAMARÃO QUE DORME A ONDA LEVA",
+      "inicio": "Não pense que meu coração ",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Bruno e Marrone - Wesley Safadão",
+      "cod": "17120",
+      "titulo": "ÚLTIMO BEIJO",
+      "inicio": "Eu sei o que você deve estar pensando agora",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Chitãozinho e Xororó",
+      "cod": "17052",
+      "titulo": "CAIPIRA",
+      "inicio": "O que eu visto não é linho",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Conde do Forró",
+      "cod": "17059",
+      "titulo": "ROMANCE DESAPEGADO",
+      "inicio": "A gente conversa sem usar palavras",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Dhi Ribeiro",
+      "cod": "17078",
+      "titulo": "PARA USO EXCLUSIVO DA CASA",
+      "inicio": "Esse filé maravilhoso que é meu bofe",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Diego e Victor Hugo",
+      "cod": "17111",
+      "titulo": "ÁUDIO",
+      "inicio": "Eu tô gravando esse áudio pra dizer",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Diego e Victor Hugo - Bruno e Marrone",
+      "cod": "17073",
+      "titulo": "FACAS",
+      "inicio": "Primeiramente guarde suas armas",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Edson e Hudson - Luan Santana",
+      "cod": "17116",
+      "titulo": "NOSSO CONTRATO",
+      "inicio": "Mexe no cabelo me usa de espelho",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Engenheiros do Hawaii",
+      "cod": "17118",
+      "titulo": "SEGURANÇA",
+      "inicio": "Você precisa de alguém que te dê segurança",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Engenheiros do Hawaii - Clara Gessinger",
+      "cod": "17058",
+      "titulo": "POSE",
+      "inicio": "Vamos passear depois do tiroteio",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Eric Land - Xand Avião",
+      "cod": "17087",
+      "titulo": "CIDADE INTEIRA",
+      "inicio": "Ô ô-ô ô-ô...Ei para de se enganar",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Ferrugem",
+      "cod": "17104",
+      "titulo": "EU NÃO SOU DE ME ENTREGAR",
+      "inicio": "Eu não sou de me entregar mas quem mandou",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Forróçacana - Alcione",
+      "cod": "17093",
+      "titulo": "FORRÓ DO XENHENHÉM",
+      "inicio": "Morena forrozeira do cangote suado",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Fundo de Quintal",
+      "cod": "17056",
+      "titulo": "LUCIDEZ",
+      "inicio": "Por favor não me olhe assim",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Gabi Martins - Tierry",
+      "cod": "17067",
+      "titulo": "PRINTS",
+      "inicio": "Eu já tinha terminado quando o seu olhar",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Guilherme Arantes",
+      "cod": "17072",
+      "titulo": "CUIDE-SE BEM",
+      "inicio": "Cuide-se bem perigos há por toda a parte",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Gusttavo Lima",
+      "cod": "17051",
+      "titulo": "BALADA DO BUTECO",
+      "inicio": "Tudo organizado reservei a mesa",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Henrique e Diego",
+      "cod": "17089",
+      "titulo": "ESPELHO MEU",
+      "inicio": "La-ra-rá...Vem cá se eu te contar um segredo",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Israel e Rodolffo",
+      "cod": "17112",
+      "titulo": "BATOM DE CEREJA",
+      "inicio": "Parei pensei quase travei",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Israel e Rodolffo",
+      "cod": "17074",
+      "titulo": "FECHA O PORTA-MALAS",
+      "inicio": "É mais um gole de cerveja que desce",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Israell Muniz - Wesley Safadão",
+      "cod": "17064",
+      "titulo": "EU VOU TIRAR VOCÊ DO CABARÉ",
+      "inicio": "Arrume a sua mala que eu vim pra tirar você",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Ivete Sangalo - Xanddy",
+      "cod": "17099",
+      "titulo": "TÁ SOLTEIRA, MAS NÃO TÁ SOZINHA",
+      "inicio": "Lá vem ela... Ela faz a passarela dela",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Jorge Vercillo",
+      "cod": "17102",
+      "titulo": "BEM OU MAL",
+      "inicio": "Bem ou mal vou subir degrau por degrau",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Karol Conká - Tropkillaz",
+      "cod": "17079",
+      "titulo": "TOMBEI",
+      "inicio": "Baguncei a divisão esparramei",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Katinguelê",
+      "cod": "17091",
+      "titulo": "FALA DE AMOR PRA MIM",
+      "inicio": "Seu beijo gostoso me deixa louco",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "LS Jack",
+      "cod": "17119",
+      "titulo": "TALVEZ",
+      "inicio": "Talvez tenha sido um beijo e nada mais",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Luan Estilizado - Jerry Smith",
+      "cod": "17069",
+      "titulo": "TÁ FALTANDO EU",
+      "inicio": "Quantas bocas você já beijou",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Luan Santana",
+      "cod": "17054",
+      "titulo": "CHOQUE TÉRMICO",
+      "inicio": "Esse seu coração frio e beijo quente",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Ludmilla",
+      "cod": "17088",
+      "titulo": "ELA NÃO",
+      "inicio": "Ela não ela não ela nunca vai ser eu",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Luis Fonsi - Zé Neto e Cristiano - Thyy",
+      "cod": "17096",
+      "titulo": "POR ISSO QUE EU BEBO",
+      "inicio": "De bar em bar de mesa em mesa",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Luisa Sonza - Anitta - Pabllo Vittar",
+      "cod": "17049",
+      "titulo": "MODO TURBO",
+      "inicio": "Aposto contigo vai fazer o que eu quiser",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Luisa Sonza - Thiaguinho",
+      "cod": "17103",
+      "titulo": "CANSAR VOCÊ",
+      "inicio": "Amor será que tu pá de hoje vir me ver",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Maiara e Maraísa - Conde do Forró",
+      "cod": "17110",
+      "titulo": "VOU FÁCIL",
+      "inicio": "A minha fase é outra resetei meu calendário",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Mallu Magalhães",
+      "cod": "17109",
+      "titulo": "VELHA E LOUCA",
+      "inicio": "Pode falar que eu não ligo",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Mariana Fagundes - Naiara Azevedo",
+      "cod": "17062",
+      "titulo": "É SÓ VOCÊ ME CHAMAR",
+      "inicio": "Alguém me falou não quero acreditar",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Marília Mendonça",
+      "cod": "17108",
+      "titulo": "TROCA DE CALÇADA",
+      "inicio": "Se alguém passar por ela fique em silêncio",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "MC Kevinho - Tierry",
+      "cod": "17044",
+      "titulo": "BRUNINHA",
+      "inicio": "Não consigo ficar longe de você",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Melim",
+      "cod": "17117",
+      "titulo": "POSSESSIVA",
+      "inicio": "A gente junto esparramado no colchão",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Mumuzinho",
+      "cod": "17095",
+      "titulo": "NÃO QUERO DESPEDIDA",
+      "inicio": "Se toda vez que a gente se olhar",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Os Barões da Pisadinha",
+      "cod": "17114",
+      "titulo": "ESQUEMA PREFERIDO",
+      "inicio": "Tá vendo aí ela já tá falando",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Os Barões da Pisadinha - Fernando e Sorocaba",
+      "cod": "17083",
+      "titulo": "AMOR DA DESPEDIDA",
+      "inicio": "Eu acho que eu vou deixar de seguir",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Os Barões da Pisadinha - Xand Avião",
+      "cod": "17043",
+      "titulo": "BASTA VOCÊ ME LIGAR",
+      "inicio": "Falou que eu tô com nojo da tua cara",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Patrícia Marx",
+      "cod": "17092",
+      "titulo": "FICAR COM VOCÊ (I WANNA BE WHERE YOU ARE)",
+      "inicio": "Quando eu te vi fechei os olhos",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Paulinho da Viola",
+      "cod": "17107",
+      "titulo": "TIMONEIRO",
+      "inicio": "Não sou eu quem me navega",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Priscilla Alcantara - Whindersson Nunes",
+      "cod": "17094",
+      "titulo": "GIRASSOL",
+      "inicio": "Se a vida fosse fácil como a gente quer",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Projota",
+      "cod": "17076",
+      "titulo": "MARIEVA",
+      "inicio": "Seus olhos são da sua mãe já deu pra ver",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Raul Seixas",
+      "cod": "17098",
+      "titulo": "SESSÃO DAS DEZ",
+      "inicio": "Ao chegar do interior inocente puro e besta",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Rebelde",
+      "cod": "17060",
+      "titulo": "SALVA-ME",
+      "inicio": "O que é que eu faço pra mudar",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Rouge",
+      "cod": "17080",
+      "titulo": "VEM, HABIB",
+      "inicio": "Wala wala wala wah... Mil e uma noites",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Roupa Nova",
+      "cod": "17082",
+      "titulo": "AMO EM SILÊNCIO (SILENCE IS GOLDEN)",
+      "inicio": "Guardo no peito esse amor por você",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Ruban",
+      "cod": "17045",
+      "titulo": "CINDERELA",
+      "inicio": "Estava no mesmo lugar quando senti",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Sampa Crew",
+      "cod": "17068",
+      "titulo": "SE ME LEMBRO FAZ DOER",
+      "inicio": "Procuro alguém com quem possa dividir",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Sérgio Reis",
+      "cod": "17105",
+      "titulo": "O MENINO DA GAITA",
+      "inicio": "Era um rapaz claros bem azuis",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Simone e Simaria - Dilsinho",
+      "cod": "17041",
+      "titulo": "AÍ LASCOU",
+      "inicio": "Aí lascou o patrão me dispensou",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Simone e Simaria - Tierry",
+      "cod": "17086",
+      "titulo": "CARRO DO OVO",
+      "inicio": "Ela me bloqueou no WhatsApp",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Skank",
+      "cod": "17101",
+      "titulo": "A CERCA",
+      "inicio": "Fazendo cerca na Fazenda do Rosário",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Sorriso Maroto",
+      "cod": "17113",
+      "titulo": "BRIGAS POR NADA",
+      "inicio": "Você não me procurou e eu não me desculpei",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Sorriso Maroto - Parangolé - MC WM",
+      "cod": "17075",
+      "titulo": "FOGO NA GASOLINA",
+      "inicio": "Quando eu mandei você sentar",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Swing e Simpatia",
+      "cod": "17070",
+      "titulo": "TODA NOITE",
+      "inicio": "Toda noite eu saio a sua procura",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Tierry - Gusttavo Lima",
+      "cod": "17071",
+      "titulo": "ACERTOU NA MOSCA",
+      "inicio": "Se você pensa que pode me conquistar",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Trio Esperança",
+      "cod": "17115",
+      "titulo": "ESTE GRANDE AMOR",
+      "inicio": "O que vou fazer se você me diz",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Vitor Kley",
+      "cod": "17084",
+      "titulo": "ANJO OU MULHER",
+      "inicio": "La-ra-ra-rá...Ela chegou quando ninguém",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Walter Franco",
+      "cod": "17097",
+      "titulo": "SERRA DO LUAR",
+      "inicio": "Amor vim te buscar",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Yasmin Santos - Marília Mendonça",
+      "cod": "17057",
+      "titulo": "PARA, PENSA E VOLTA",
+      "inicio": "Outra vez nós brigamos por motivo idiota",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Zé Felipe - Gusttavo Lima",
+      "cod": "17090",
+      "titulo": "ESQUECE DE ME ESQUECER",
+      "inicio": "Eu sei eu sei é difícil assumir sofrimento",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Zé Geraldo",
+      "cod": "17066",
+      "titulo": "MILHO AOS POMBOS",
+      "inicio": "A cada conflito mais escombros",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Zé Neto e Cristiano",
+      "cod": "17042",
+      "titulo": "ALÔ AMBEV (SEGUE SUA VIDA)",
+      "inicio": "Traz uma gelada pra mim por favor",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Zé Neto e Cristiano",
+      "cod": "17085",
+      "titulo": "ATENTADO PESSOAL",
+      "inicio": "Sabe eu não te julgo eu faria o mesmo",
+      "cartucho": "36A"
+    },
+    {
+      "cantor": "Zé Vaqueiro",
+      "cod": "17048",
+      "titulo": "LETÍCIA",
+      "inicio": "Por quê você foi me iludir dizendo que ia",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Zé Vaqueiro",
+      "cod": "17065",
+      "titulo": "MEIA NOITE",
+      "inicio": "Cê vai deixar a porta aberta para o nosso",
+      "cartucho": "35D"
+    },
+    {
+      "cantor": "Zezé Di Camargo e Luciano",
+      "cod": "17106",
+      "titulo": "SE FOR PRA JUDIAR",
+      "inicio": "Solidão palavra forte o amor é maior",
+      "cartucho": "36A"
     }
   ]
 }
