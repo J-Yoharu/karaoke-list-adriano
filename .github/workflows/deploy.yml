@@ -17,7 +17,8 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
+    - run: echo
     - run: npm install && npm run build
     - run: git config --global user.email "jonathas_a.a@hotmail.com" && git config --global user.name "Automation"
-    - run: cd dist && git init && git add -A && git commit -m 'deploy' && git push -f https://j-yoharu:${{ secrets.GITHUB_TOKEN }}@github.com/J-Yoharu/${{env.REPOSITORY}}.git master:gh-pages      
+    - run: cd dist && git init && git add -A && git commit -m 'deploy' && git push -f https://j-yoharu:${{ secrets.GITHUB_TOKEN }}@github.com/J-Yoharu/karaoke-list-adriano.git master:gh-pages      
  
