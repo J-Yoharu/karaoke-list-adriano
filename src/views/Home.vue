@@ -5,7 +5,7 @@
         src="../assets/Logo.png"
         max-width="100"
         alt="Logo videoke Augusto"
-        style="width: 30vw"
+        style="width: 20vw"
     /></v-col>
     <v-col cols="12">
       <List :db="db" />

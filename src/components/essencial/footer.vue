@@ -8,7 +8,7 @@
         <v-col class="text-center" cols="12" lg="2">
           <div class="d-flex align-center justify-center">
             <a
-              href="https://api.whatsapp.com/send?phone=5511947466026&text=Gostaria%20de%20alugar%20uma%20m%C3%A1quina%20com%20voc%C3%AA!"
+              href="https://api.whatsapp.com/send?phone=5511975953154&text=Gostaria%20de%20alugar%20uma%20m%C3%A1quina%20com%20voc%C3%AA!"
               target="_blank"
             >
               <v-icon
@@ -16,7 +16,7 @@
                 size="40"
                 color="light-green"
               ></v-icon>
-              <h4>(11) 9 4746-6026</h4>
+              <h4>(11)9 7595-3154</h4>
             </a>
           </div>
         </v-col>
