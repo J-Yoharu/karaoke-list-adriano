@@ -11,7 +11,7 @@
           @keyup="autoComplete"
           @keyup.enter="selectFirstAndSearch()"
           placeholder="Música ou Cantor"
-          label="Pesquisar"
+          :label="`Pesquisar por músicas da ${type}`"
           :append-icon="icons.mdiMagnify"
           hide-details
         >
@@ -46,7 +46,7 @@
 import { mdiMagnify } from "@mdi/js";
 
 export default {
-  props: ["data"],
+  props: ["data", "type"],
   data() {
     return {
       icons: {

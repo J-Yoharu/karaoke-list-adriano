@@ -15,11 +15,19 @@
             :key="index"
             :class="index % 2 == 0 ? 'bg-green' : ''"
           >
-            <td>{{ music.cantor }}</td>
+            <td class="d-flex">
+              <div class="mr-1">{{ music.cantor }}</div>
+              <div v-if="music.type">
+                <div class="stamp">{{music.type}}</div>
+              </div>
+              <div  v-else>
+                <div class="stamp">Raf</div>
+              </div>
+            </td>
             <td>{{ music.titulo }}</td>
             <td>{{ music.cod }}</td>
             <td class="text-center">
-              <v-btn icon @click="removeFavorite(index)">
+              <v-btn icon @click="removeFavorite(index, music.type)">
                 <v-icon v-text="icons.mdiDelete"></v-icon>
               </v-btn>
             </td>
@@ -52,7 +60,7 @@ export default {
         mdiDelete,
         mdiPlus
       },
-
+      dbTypes: ['raf', 'berzek'],
       snackbar: {
         value: false,
         message: null
@@ -81,8 +89,8 @@ export default {
     };
   },
   methods: {
-    removeFavorite(index) {
-      let db = JSON.parse(localStorage.dbKaraoke);
+    removeFavorite(index, type = 'raf') {
+      let db = JSON.parse(localStorage[type]);
 
       db.forEach(music => {
         if (music.cod == this.db[index].cod) {
@@ -93,7 +101,7 @@ export default {
       //remove do front
       this.db.splice(index, 1);
 
-      localStorage.dbKaraoke = JSON.stringify(db);
+      localStorage[type] = JSON.stringify(db);
       this.showSnackBar("Musica removida dos favoritos com sucesso!");
     },
     showSnackBar(message) {
@@ -109,11 +117,13 @@ export default {
     }
   },
   created() {
-    let db = JSON.parse(localStorage.dbKaraoke).filter(music => {
-      return music.favorite == true;
+    let dbs = [];
+    this.dbTypes.forEach(db => {
+      dbs = dbs.concat(JSON.parse(localStorage[db]).filter(music => {
+        return music.favorite == true;
+      }));
     });
-    console.log(db);
-    this.db = db;
+    this.db = dbs;
   }
 };
 </script>

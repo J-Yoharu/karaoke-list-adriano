@@ -1,19 +1,19 @@
 export default {
   methods: {
-    valid() {
-      let db = localStorage.dbKaraoke;
+    valid(type = 'raf') {
+      let db = localStorage[type];
       if (db === undefined || db === null) {
         console.log("não existe bd salvo, criando bd local...");
-        this.loadSongs();
+        this.loadSongs(type);
         return;
       }
-      this.getCurrentVersion();
+      this.getCurrentVersion(type);
       console.log("existe bd local, validando versão...");
       return;
     },
-    async loadSongs() {
+    async loadSongs(type) {
       this.loading = true;
-      this.$axios("./bd.json")
+      this.$axios(`./bd_${type}.json`)
         .then((res) => {
           this.db = res.data.data.map((song) => {
             return {
@@ -21,16 +21,18 @@ export default {
               titulo: this.textFormat(song.titulo),
               cod: this.textFormat(song.cod),
               favorite: false,
+              type,
             };
           });
-          localStorage.dbKaraoke = JSON.stringify(this.db);
-          localStorage.karaokeVersion = res.data.version;
+          localStorage[type] = JSON.stringify(this.db);
+          localStorage[`${type}_version`] = res.data.version;
         })
         .finally(() => {
           this.loading = false;
         });
     },
     textFormat(text) {
+      if(typeof text == 'number') text = text.toString();
       return text
         .normalize("NFD")
         .replace(/[\u0300-\u036f]/g, "")
@@ -40,33 +42,33 @@ export default {
       current.push(...update.splice(current.length, update.length));
       return current;
     },
-    getCurrentVersion() {
-      this.$axios("./bd.json").then((resp) => {
-        let version = localStorage.karaokeVersion;
+    getCurrentVersion(type) {
+      this.$axios(`./bd_${type}.json`).then((resp) => {
+        let version = localStorage[`${type}_version`];
         if (version === undefined || version === null) {
-          localStorage.karaokeVersion = resp.data.version;
-          this.updateDb(resp.data.data);
+          localStorage[`${type}_version`] = resp.data.version;
+          this.updateDb(resp.data.data, type);
           return;
         }
-        if (resp.data.version == localStorage.karaokeVersion) {
+        if (resp.data.version == localStorage[`${type}_version`]) {
           console.log("TÁ ATUALIZADO SEU DB!");
-          this.db = JSON.parse(localStorage.dbKaraoke);
+          this.db = JSON.parse(localStorage[type]);
 
           return;
         }
         console.log("não tá atualizado seu bd, vamos atualizar...");
-        localStorage.karaokeVersion = resp.data.version;
-        this.updateDb(resp.data.data);
+        localStorage[`${type}_version`] = resp.data.version;
+        this.updateDb(resp.data.data, type);
         console.log("Atualizado.");
       });
     },
-    updateDb(newData) {
+    updateDb(newData, type) {
       let updatedDb = this.compareAndUpdate(
-        JSON.parse(localStorage.dbKaraoke),
+        JSON.parse(localStorage[type]),
         newData
       );
-      localStorage.dbKaraoke = JSON.stringify(updatedDb);
-      this.db = JSON.parse(localStorage.dbKaraoke);
+      localStorage[`${type}_version`] = JSON.stringify(updatedDb);
+      this.db = JSON.parse(localStorage[type]);
     },
   },
 };

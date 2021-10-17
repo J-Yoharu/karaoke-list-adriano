@@ -17,6 +17,10 @@
           <v-tab to="/"
             ><v-icon v-text="icons.mdiHome" class="mr-4"></v-icon>Home</v-tab
           >
+          <v-tab to="/berzek">
+            <v-icon v-text="icons.mdiBootstrap" class="mr-4"></v-icon
+            >Lista Berzek</v-tab
+          >
           <v-tab to="/favorites">
             <v-icon v-text="icons.mdiStar" class="mr-4"></v-icon
             >Favoritos</v-tab
@@ -28,13 +32,14 @@
 </template>
 
 <script>
-import { mdiHome, mdiStar } from "@mdi/js";
+import { mdiHome, mdiStar, mdiBootstrap } from "@mdi/js";
 export default {
   data() {
     return {
       icons: {
         mdiHome,
-        mdiStar
+        mdiStar,
+        mdiBootstrap,
       },
       collapse: true
     };

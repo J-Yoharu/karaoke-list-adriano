@@ -14,6 +14,7 @@
           @loading="loading = $event"
           @search="songsFilter = $event"
           :data="db"
+          :type="type"
         />
       </template>
       <template v-slot:body="{ items }">
@@ -60,6 +61,10 @@ export default {
       default() {
         return true;
       }
+    }, 
+    type:{
+      type: String, 
+      default: 'raf'
     }
   },
   components: {
@@ -117,8 +122,8 @@ export default {
     },
 
     addFavorite(index) {
-      let db = JSON.parse(localStorage.dbKaraoke);
-
+      let db = JSON.parse(localStorage[this.type]);
+      
       db.forEach(music => {
         if (music.cod == this.songsFilter[index].cod) {
           music.favorite = true;
@@ -129,7 +134,7 @@ export default {
         }
       });
 
-      localStorage.dbKaraoke = JSON.stringify(db);
+      localStorage[this.type] = JSON.stringify(db);
 
       this.showSnackBar("Musica adicionada aos favoritos com sucesso!");
       console.log("chamou favorito");

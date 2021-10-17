@@ -42,4 +42,10 @@ export default {
 .bg-green {
   background-color: #e1f1de;
 }
+.stamp{
+    background-color:#BBDEFB;
+    padding:5px;
+    transform: rotate(-5deg);
+    border-radius: 8px;
+  }
 </style>
