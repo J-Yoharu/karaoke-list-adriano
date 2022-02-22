@@ -8,7 +8,7 @@
         style="width: 30vw"
     /></v-col>
     <v-col cols="12">
-      <List :db="db" :type="'berzek'" />
+      <List :db="db" :type="'berzek'" :loadLastMusics="false" />
       <div class="d-flex justify-center mt-10" v-if="loading">
         <v-progress-circular
           indeterminate

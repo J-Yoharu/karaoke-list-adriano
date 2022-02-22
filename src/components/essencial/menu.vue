@@ -25,6 +25,10 @@
             <v-icon v-text="icons.mdiStar" class="mr-4"></v-icon
             >Favoritos</v-tab
           >
+           <v-tab to="/updates">
+            <v-icon v-text="icons.mdiUpdate" class="mr-4"></v-icon
+            >Novidades Raf</v-tab
+          >
         </v-tabs>
       </div>
     </nav>

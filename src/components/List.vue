@@ -16,6 +16,11 @@
           :data="db"
           :type="type"
         />
+        <div class="text-center" v-if="!firstSearch && loadLastMusics">
+          <v-chip color="primary" @click="$router.push({name: 'updates'})">
+            {{songsFilter.length}} novas músicas, confira abaixo ou no menu!
+          </v-chip>
+        </div>
       </template>
       <template v-slot:body="{ items }">
         <tbody>
@@ -65,10 +70,24 @@ export default {
     type:{
       type: String, 
       default: 'raf'
+    },
+    loadingAllDb:{
+      type: Boolean,
+      default: false
+    },
+    loadLastMusics: {
+      type: Boolean,
+      default: true
     }
   },
   components: {
     SearchBar: () => import("./SearchBar")
+  },
+    created(){
+     if(this.loadingAllDb){
+        this.songsFilter = this.db;
+        return;
+    }
   },
   data() {
     return {
@@ -104,10 +123,25 @@ export default {
           sortable: false
         }
       ],
+      qtdLastMusics: 80,
       songsFilter: [],
+      firstDbLoading: false,
+      firstSearch: false,
       search: "",
       selected: ""
     };
+  },
+   watch:{
+    songsFilter(){
+      this.$emit('changeSongs', this.songsFilter);
+    },
+    db(){
+      //Quando demorar pra atribuir valor ao db, vai cair nesse watch só uma vez, se não vai pelo created
+      if(this.db.length > 0 && !this.firstDbLoading && this.loadLastMusics){
+        this.songsFilter = this.db.slice(this.db.length - this.qtdLastMusics, this.db.length);
+        this.firstDbLoading = true
+      }
+    }
   },
   methods: {
     searchSongs(data) {
