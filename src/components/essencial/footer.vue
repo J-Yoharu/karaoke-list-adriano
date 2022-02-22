@@ -20,7 +20,10 @@
             </a>
           </div>
         </v-col>
-        <v-col cols="12" lg="3"> Atualizado até o pacote {{ version }} </v-col>
+        <v-col cols="12" lg="3">
+          <div>RAF Atualizado até o pacote {{ versions.raf }}</div>  
+          <!-- <div>Berzek Atualizado até o pacote {{ versions.berzek }}</div>   -->
+        </v-col>
       </v-row>
       <v-row no-gutters>
         <v-col cols="12" class="justify-center">
@@ -46,14 +49,20 @@ export default {
         mdiWhatsapp,
         mdiGithub
       },
-      version: null
+      versions: {}
     };
   },
   async mounted() {
-    let bd = await fetch("./bd.json", { method: "GET" }).then(resp => {
+    let rafBd = await fetch("./bd_raf.json", { method: "GET" }).then(resp => {
       return resp.json();
     });
-    this.version = bd.version;
+    let berzekBd = await fetch("./bd_berzek.json", { method: "GET" }).then(resp => {
+      return resp.json();
+    });
+    this.versions = {
+      raf: rafBd.version,
+      berzek: berzekBd.version
+    }
   }
 };
 </script>
