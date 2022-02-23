@@ -16,7 +16,7 @@
           :data="db"
           :type="type"
         />
-        <div class="text-center" v-if="!firstSearch && loadLastMusics">
+        <div class="text-center" v-if="!firstSearch && loadLastMusics && false">
           <v-chip color="primary" @click="$router.push({name: 'updates'})">
             {{songsFilter.length}} novas músicas, confira abaixo ou no menu!
           </v-chip>

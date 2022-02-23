@@ -7,6 +7,13 @@ export default {
         this.loadSongs(type);
         return;
       }
+      this.$axios.get(`./bd_${type}.json`).then((resp) => {
+        if(resp.data.data.length != JSON.parse(db).length) {
+          localStorage.removeItem(type);
+          this.loadSongs(type)
+          return;
+        }
+      })
       this.getCurrentVersion(type);
       console.log("existe bd local, validando versão...");
       return;
