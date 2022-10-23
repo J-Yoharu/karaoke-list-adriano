@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22996d"],{dda8:function(t,n,e){"use strict";e.r(n);var a=function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("div",[t._v(" ERROR 404, VOLTE PARA O "),e("router-link",{attrs:{tag:"a",to:"/"}},[t._v("INICIO CLICANDO AQUI ")])],1)},r=[],u={},l=u,c=e("2877"),o=Object(c["a"])(l,a,r,!1,null,null,null);n["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d22996d.25980395.js.map
