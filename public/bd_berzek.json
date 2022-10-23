@@ -1,5 +1,5 @@
 {
-"version": "36A",
+"version": "32",
 "data":[
  {
    "cantor": "10 cc",
@@ -39640,6 +39640,948 @@
    "cantor": "ZZ Top",
    "cod": 24840,
    "titulo": "ROUGH BOY"
- }
+ },
+ {
+  "cantor": "Alexandre Pires",
+  "cod": 7697,
+  "titulo": "SEM TEU AMOR NADA É IGUAL",
+  "pacote": 31
+},
+{
+  "cantor": "Ana Carolina",
+  "cod": 2739,
+  "titulo": "PROBLEMAS",
+  "pacote": 29
+},
+{
+  "cantor": "Anitta",
+  "cod": 31227,
+  "titulo": "ENVOLVER",
+  "pacote": 30
+},
+{
+  "cantor": "Anitta ft. Saweettie",
+  "cod": 31162,
+  "titulo": "FAKING LOVE",
+  "pacote": 27
+},
+{
+  "cantor": "Anitta, Pedro Sampaio",
+  "cod": 30908,
+  "titulo": "NO CHÃO NOVINHA",
+  "pacote": 28
+},
+{
+  "cantor": "Atitude 67",
+  "cod": 31163,
+  "titulo": "8 SEGUNDOS",
+  "pacote": 27
+},
+{
+  "cantor": "Atitude 67",
+  "cod": 31194,
+  "titulo": "TÃO LINDA",
+  "pacote": 28
+},
+{
+  "cantor": "Ávine e Matheus Fernandes",
+  "cod": 31164,
+  "titulo": "CORAÇÃO CACHORRO (LATE CORAÇÃO)",
+  "pacote": 27
+},
+{
+  "cantor": "Babado Novo",
+  "cod": 9409,
+  "titulo": "CARANGUEJO",
+  "pacote": 30
+},
+{
+  "cantor": "Banda Calypso",
+  "cod": 9617,
+  "titulo": "ARREPIOU",
+  "pacote": 32
+},
+{
+  "cantor": "Banda Calypso",
+  "cod": 31249,
+  "titulo": "ME BEIJA AGORA",
+  "pacote": 31
+},
+{
+  "cantor": "Barões da Pisadinha, MC Danny",
+  "cod": 31250,
+  "titulo": "ROMANTIZOU",
+  "pacote": 31
+},
+{
+  "cantor": "BIN",
+  "cod": 31251,
+  "titulo": "SATURNO",
+  "pacote": 31
+},
+{
+  "cantor": "Bruno e Marrone",
+  "cod": 1193,
+  "titulo": "AMOR NÃO VAI FALTAR",
+  "pacote": 30
+},
+{
+  "cantor": "Catedral",
+  "cod": 31165,
+  "titulo": "EU QUERO SOL NESSE JARDIM",
+  "pacote": 27
+},
+{
+  "cantor": "Cesar Menotti e Fabiano",
+  "cod": 9394,
+  "titulo": "AQUI NÃO",
+  "pacote": 29
+},
+{
+  "cantor": "César Menotti e Fabiano",
+  "cod": 9358,
+  "titulo": "VEM ME AMAR",
+  "pacote": 31
+},
+{
+  "cantor": "Clara Nunes",
+  "cod": 3761,
+  "titulo": "O MAR SERENOU",
+  "pacote": 30
+},
+{
+  "cantor": "Cogumelo Plutão",
+  "cod": 31195,
+  "titulo": "RETRATOS DA ADOLESCÊNCIA",
+  "pacote": 28
+},
+{
+  "cantor": "Daniel ",
+  "cod": 31252,
+  "titulo": "VOCÊ NÃO VAI ME ENCONTRAR",
+  "pacote": 31
+},
+{
+  "cantor": "Daniel Garcia, Lara Suleiman",
+  "cod": 31228,
+  "titulo": "UM MUNDO IDEAL",
+  "pacote": 30
+},
+{
+  "cantor": "Detonautas",
+  "cod": 2839,
+  "titulo": "O DIA QUE NÃO TERMINOU",
+  "pacote": 28
+},
+{
+  "cantor": "Di Propósito",
+  "cod": 31166,
+  "titulo": "MANDA ÁUDIO",
+  "pacote": 27
+},
+{
+  "cantor": "Diego e Victor Hugo",
+  "cod": 31167,
+  "titulo": "DESBLOQUEADO",
+  "pacote": 27
+},
+{
+  "cantor": "Dilsinho & Luíza Sonza",
+  "cod": 31168,
+  "titulo": "NÃO VAI EMBORA",
+  "pacote": 27
+},
+{
+  "cantor": "DJ Guuga & Zé Felipe & Wesley Safadão",
+  "cod": 31208,
+  "titulo": "DEPENDE",
+  "pacote": 29
+},
+{
+  "cantor": "DJ-D, Vulgo FK, Menor MC e MC GP",
+  "cod": 31270,
+  "titulo": "PANDORA",
+  "pacote": 32
+},
+{
+  "cantor": "Eduardo Costa, Paula Fernandes",
+  "cod": 1907,
+  "titulo": "MEU GRITO DE AMOR",
+  "pacote": 32
+},
+{
+  "cantor": "Encanto",
+  "cod": 31196,
+  "titulo": "NÃO FALAMOS DO BRUNO",
+  "pacote": 28
+},
+{
+  "cantor": "Erasmo Carlos",
+  "cod": 31229,
+  "titulo": "CLOSE",
+  "pacote": 30
+},
+{
+  "cantor": "Exaltasamba",
+  "cod": 31253,
+  "titulo": "CARONA DO AMOR",
+  "pacote": 31
+},
+{
+  "cantor": "FBC, VHOOR,  Mac Júlia",
+  "cod": 31230,
+  "titulo": "SE TA SOLTEIRA",
+  "pacote": 30
+},
+{
+  "cantor": "Felipe Amorim",
+  "cod": 31254,
+  "titulo": "NO OUVIDINHO",
+  "pacote": 31
+},
+{
+  "cantor": "Felipe Amorim",
+  "cod": 31169,
+  "titulo": "PUTARIAZINHA",
+  "pacote": 27
+},
+{
+  "cantor": "Felipe Amorim e Zé Felipe",
+  "cod": 31255,
+  "titulo": "SAFADEZINHA",
+  "pacote": 31
+},
+{
+  "cantor": "Ferrugem",
+  "cod": 31170,
+  "titulo": "ATÉ QUE ENFIM",
+  "pacote": 27
+},
+{
+  "cantor": "Gabriela Rocha",
+  "cod": 31231,
+  "titulo": "HINO DA VITÓRIA",
+  "pacote": 30
+},
+{
+  "cantor": "Glória Groove",
+  "cod": 31172,
+  "titulo": "A QUEDA",
+  "pacote": 27
+},
+{
+  "cantor": "Glória Groove",
+  "cod": 31171,
+  "titulo": "LEILÃO",
+  "pacote": 27
+},
+{
+  "cantor": "Glória Groove",
+  "cod": 31256,
+  "titulo": "MIL GRAU",
+  "pacote": 31
+},
+{
+  "cantor": "Glória Groove",
+  "cod": 31232,
+  "titulo": "VERMELHO",
+  "pacote": 30
+},
+{
+  "cantor": "Guilherme e Santiago",
+  "cod": 31209,
+  "titulo": "EU TE AMO DEMAIS",
+  "pacote": 29
+},
+{
+  "cantor": "Gustavo Lima",
+  "cod": 31173,
+  "titulo": "NOTA DE REPÚDIO",
+  "pacote": 27
+},
+{
+  "cantor": "Gusttavo Lima",
+  "cod": 31233,
+  "titulo": "BLOQUEADO",
+  "pacote": 30
+},
+{
+  "cantor": "Gusttavo Lima",
+  "cod": 31257,
+  "titulo": "TERMINA COMIGO ANTES",
+  "pacote": 31
+},
+{
+  "cantor": "Gusttavo Lima ft. Dendelzinho",
+  "cod": 31174,
+  "titulo": "QUEBRANDO PROTOCOLO",
+  "pacote": 27
+},
+{
+  "cantor": "Henrique e Juliano",
+  "cod": 31258,
+  "titulo": "A MAIOR SAUDADE",
+  "pacote": 31
+},
+{
+  "cantor": "Henrique e Juliano",
+  "cod": 31175,
+  "titulo": "ARRANHÃO",
+  "pacote": 27
+},
+{
+  "cantor": "Henrique e Juliano",
+  "cod": 31210,
+  "titulo": "CULPADOS",
+  "pacote": 29
+},
+{
+  "cantor": "Henrique e Juliano",
+  "cod": 31271,
+  "titulo": "EU ME TRAÍ",
+  "pacote": 32
+},
+{
+  "cantor": "Hugo e Guilherme, Marília Mendoça",
+  "cod": 31211,
+  "titulo": "MAL FEITO",
+  "pacote": 29
+},
+{
+  "cantor": "ID2",
+  "cod": 31272,
+  "titulo": "A VOZ",
+  "pacote": 32
+},
+{
+  "cantor": "Israel e Rodolffo",
+  "cod": 31212,
+  "titulo": "DA INIMIDADE PRA VER",
+  "pacote": 29
+},
+{
+  "cantor": "Israel e Rodolffo",
+  "cod": 31176,
+  "titulo": "DAR UMA NAMORADA",
+  "pacote": 27
+},
+{
+  "cantor": "Israel e Rodolffo, Juliette",
+  "cod": 31197,
+  "titulo": "SOBRE",
+  "pacote": 28
+},
+{
+  "cantor": "Jão",
+  "cod": 31213,
+  "titulo": "IDIOTA",
+  "pacote": 29
+},
+{
+  "cantor": "João Gomes",
+  "cod": 31273,
+  "titulo": "AMANDO VOCÊ",
+  "pacote": 32
+},
+{
+  "cantor": "João Gomez",
+  "cod": 31177,
+  "titulo": "MEU BEM",
+  "pacote": 27
+},
+{
+  "cantor": "Joelma",
+  "cod": 31234,
+  "titulo": "MEUS MEDOS",
+  "pacote": 30
+},
+{
+  "cantor": "Jorge e Matheus",
+  "cod": 31274,
+  "titulo": "TODO SEU",
+  "pacote": 32
+},
+{
+  "cantor": "Jota Quest",
+  "cod": 7983,
+  "titulo": "JÁ FOI",
+  "pacote": 31
+},
+{
+  "cantor": "Jota Quest",
+  "cod": 6107,
+  "titulo": "O QUE EU TAMBÉM NÃO ENTENDO",
+  "pacote": 29
+},
+{
+  "cantor": "Jovem Dionísio",
+  "cod": 31275,
+  "titulo": "ACORDA PEDRINHO",
+  "pacote": 32
+},
+{
+  "cantor": "Juliette",
+  "cod": 31178,
+  "titulo": "DIFERENÇA MARA",
+  "pacote": 27
+},
+{
+  "cantor": "L7NNON",
+  "cod": 31276,
+  "titulo": "GRATIDÃO",
+  "pacote": 32
+},
+{
+  "cantor": "Lara Suleiman",
+  "cod": 31214,
+  "titulo": "ESTOU NERVOSA",
+  "pacote": 29
+},
+{
+  "cantor": "Larissa Cardoso",
+  "cod": 31215,
+  "titulo": "QUE MAIS VOU FAZER",
+  "pacote": 29
+},
+{
+  "cantor": "Legião Urbana",
+  "cod": 4195,
+  "titulo": "GIZ",
+  "pacote": 28
+},
+{
+  "cantor": "Legião Urbana",
+  "cod": 1838,
+  "titulo": "O MUNDO ANDA TÃO COMPLICADO",
+  "pacote": 29
+},
+{
+  "cantor": "Léo e Raphael",
+  "cod": 31198,
+  "titulo": "OS MENINO DA PECUÁRIA",
+  "pacote": 28
+},
+{
+  "cantor": "Léo Santana, MC Don Juan, Mari Fernandez ",
+  "cod": 31259,
+  "titulo": "ÁUDIO QUE TE ENTREGA",
+  "pacote": 31
+},
+{
+  "cantor": "Lexa",
+  "cod": 31260,
+  "titulo": "BRUTA",
+  "pacote": 31
+},
+{
+  "cantor": "Luan Santana",
+  "cod": 31236,
+  "titulo": "ABALO EMOCIONAL",
+  "pacote": 30
+},
+{
+  "cantor": "Luan Santana ft. Henrique e Juliano",
+  "cod": 31277,
+  "titulo": "ERRO PLANEJADO",
+  "pacote": 32
+},
+{
+  "cantor": "Lucas Lucco ft. Marília Mendonça",
+  "cod": 31216,
+  "titulo": "AMAVA NADA",
+  "pacote": 29
+},
+{
+  "cantor": "Ludmilla",
+  "cod": 31237,
+  "titulo": "MALDIVAS",
+  "pacote": 30
+},
+{
+  "cantor": "Ludmilla, Jão",
+  "cod": 31179,
+  "titulo": "A BOBA FUI EU",
+  "pacote": 27
+},
+{
+  "cantor": "Ludmilla, Mariah Angeliq, Topo La Maskara, Mr Vegas",
+  "cod": 31238,
+  "titulo": "SOCADONA",
+  "pacote": 30
+},
+{
+  "cantor": "Luísa Sonza, Davi Kneip, Mc Frog, Dj Gabriel do Borel",
+  "cod": 31261,
+  "titulo": "sentaDONA (remix)",
+  "pacote": 31
+},
+{
+  "cantor": "Luísa Sonza, Jão",
+  "cod": 31239,
+  "titulo": "FUGITIVOS",
+  "pacote": 30
+},
+{
+  "cantor": "Luisa Sonza, Ludmilla",
+  "cod": 31248,
+  "titulo": "CAFÉ DA MANHÃ",
+  "pacote": 30
+},
+{
+  "cantor": "Luísa Sonza, Marília Mendonça",
+  "cod": 31180,
+  "titulo": "MELHOR SOZINHA",
+  "pacote": 27
+},
+{
+  "cantor": "Lulu Santos",
+  "cod": 31226,
+  "titulo": "DANCIN DAYS",
+  "pacote": 29
+},
+{
+  "cantor": "Márcia Fellipe",
+  "cod": 31278,
+  "titulo": "QUATRO SORRISOS",
+  "pacote": 32
+},
+{
+  "cantor": "Marcynho Sensação, MC Henny, Bella Angel e Melody",
+  "cod": 31199,
+  "titulo": "EU VOU DESCENDO SIM",
+  "pacote": 28
+},
+{
+  "cantor": "Mari Fernandez",
+  "cod": 31279,
+  "titulo": "QUEM VALE MENOS",
+  "pacote": 32
+},
+{
+  "cantor": "Mari Fernandez",
+  "cod": 31280,
+  "titulo": "TEU AMIGO CUIDOU",
+  "pacote": 32
+},
+{
+  "cantor": "Mari Fernandez & Marcynho Sensação",
+  "cod": 31200,
+  "titulo": "PARADA LOUCA",
+  "pacote": 28
+},
+{
+  "cantor": "Mari Fernandez & Nattan",
+  "cod": 31281,
+  "titulo": "COMUNICAÇÃO FALHOU",
+  "pacote": 32
+},
+{
+  "cantor": "Marília Mendonça",
+  "cod": 31262,
+  "titulo": "ABANDONO DE INCAPAZ",
+  "pacote": 31
+},
+{
+  "cantor": "Marília Mendonça, Maiara e Maraisa",
+  "cod": 30247,
+  "titulo": "ESQUEÇA-ME SE FOR CAPAZ",
+  "pacote": 28
+},
+{
+  "cantor": "Marília Mendonça, Maiara e Maraisa",
+  "cod": 31283,
+  "titulo": "MOTEL AFRODITE",
+  "pacote": 32
+},
+{
+  "cantor": "Marília Mendonça, Maiara e Maraisa",
+  "cod": 30502,
+  "titulo": "PRESEPADA",
+  "pacote": 28
+},
+{
+  "cantor": "Marília Mendonça, Maiara e Maraísa",
+  "cod": 31182,
+  "titulo": "FÃ-CLUBE",
+  "pacote": 27
+},
+{
+  "cantor": "Marília Mendonça, Maiara e Maraísa",
+  "cod": 31181,
+  "titulo": "TODO MUNDO MENOS VOCÊ",
+  "pacote": 27
+},
+{
+  "cantor": "Marina Sena",
+  "cod": 31263,
+  "titulo": "POR SUPUESTO",
+  "pacote": 31
+},
+{
+  "cantor": "Marisa Monte",
+  "cod": 9847,
+  "titulo": "NÃO É PROIBIDO",
+  "pacote": 29
+},
+{
+  "cantor": "Matheus e Kauan",
+  "cod": 31264,
+  "titulo": "GATILHO",
+  "pacote": 31
+},
+{
+  "cantor": "Matheus e Kauan, Arthur Aguiar",
+  "cod": 31235,
+  "titulo": "CASA REVIRADA",
+  "pacote": 30
+},
+{
+  "cantor": "Matheus Fernandes e Dilsinho",
+  "cod": 31201,
+  "titulo": "BABY ME ATENDE",
+  "pacote": 28
+},
+{
+  "cantor": "Matuê",
+  "cod": 31284,
+  "titulo": "QUEM MANDA É A 30",
+  "pacote": 32
+},
+{
+  "cantor": "Matuê, Teto & WIU",
+  "cod": 31265,
+  "titulo": "VAMPiro",
+  "pacote": 31
+},
+{
+  "cantor": "MC Don Juan e Tarcísio do Acordeon",
+  "cod": 31285,
+  "titulo": "NÃO VOU TE BLOQUEAR",
+  "pacote": 32
+},
+{
+  "cantor": "MC Don Juan, MC Davi e MC Pedrinho",
+  "cod": 31183,
+  "titulo": "BIPOLAR",
+  "pacote": 27
+},
+{
+  "cantor": "MC Moana",
+  "cod": 31266,
+  "titulo": "VAI LUAN",
+  "pacote": 31
+},
+{
+  "cantor": "MC Poze do Rodo, Bielzin, PL Quest, MC Cabelinho",
+  "cod": 31240,
+  "titulo": "A CARA DO CRIME",
+  "pacote": 30
+},
+{
+  "cantor": "MC RD",
+  "cod": 31282,
+  "titulo": "PIUI TIC TAC",
+  "pacote": 32
+},
+{
+  "cantor": "MC Treyce, DJ Sony, Mc Izall, Afonso na Voz",
+  "cod": 31267,
+  "titulo": "VAI MALVADIN",
+  "pacote": 31
+},
+{
+  "cantor": "Melim",
+  "cod": 31241,
+  "titulo": "APÊ",
+  "pacote": 30
+},
+{
+  "cantor": "Melim",
+  "cod": 31242,
+  "titulo": "CONFUSÃO",
+  "pacote": 30
+},
+{
+  "cantor": "Melody",
+  "cod": 31243,
+  "titulo": "FAKE AMOR",
+  "pacote": 30
+},
+{
+  "cantor": "Midian Lima",
+  "cod": 31286,
+  "titulo": "NÃO PARE",
+  "pacote": 32
+},
+{
+  "cantor": "Murilo Huff",
+  "cod": 31184,
+  "titulo": "DESEJANDO EU",
+  "pacote": 27
+},
+{
+  "cantor": "Murilo Huff ft. Marília Mendonça",
+  "cod": 31185,
+  "titulo": "DOIS ENGANADOS",
+  "pacote": 27
+},
+{
+  "cantor": "Naiara Azevedo, Marília Mendonça",
+  "cod": 31244,
+  "titulo": "0,5",
+  "pacote": 30
+},
+{
+  "cantor": "Nando Reis",
+  "cod": 2812,
+  "titulo": "N",
+  "pacote": 28
+},
+{
+  "cantor": "Natiruts",
+  "cod": 31203,
+  "titulo": "EU E ELA",
+  "pacote": 28
+},
+{
+  "cantor": "Natiruts",
+  "cod": 31202,
+  "titulo": "GLAMOUR TROPICAL",
+  "pacote": 28
+},
+{
+  "cantor": "Nattan",
+  "cod": 31287,
+  "titulo": "PQP",
+  "pacote": 32
+},
+{
+  "cantor": "Oruam ft. MC Cabelinho",
+  "cod": 31288,
+  "titulo": "FILHO DO DONO",
+  "pacote": 32
+},
+{
+  "cantor": "Paralamas do Sucesso",
+  "cod": 6530,
+  "titulo": "CUIDE BEM DO SEU AMOR",
+  "pacote": 28
+},
+{
+  "cantor": "Paula Fernandes, Taylor Swift",
+  "cod": 31268,
+  "titulo": "LONG LIVE",
+  "pacote": 31
+},
+{
+  "cantor": "Paulo Pires & Mc Danny & Marcinho Sensação",
+  "cod": 31186,
+  "titulo": "AMEAÇA",
+  "pacote": 27
+},
+{
+  "cantor": "Pedro Mariano",
+  "cod": 7213,
+  "titulo": "PODE SER",
+  "pacote": 29
+},
+{
+  "cantor": "Pedro Sampaio",
+  "cod": 31218,
+  "titulo": "CHAMA MEU NOME",
+  "pacote": 29
+},
+{
+  "cantor": "Pedro Sampaio",
+  "cod": 31187,
+  "titulo": "GALOPA",
+  "pacote": 27
+},
+{
+  "cantor": "Pedro Sampaio, MC Pedrinho",
+  "cod": 31245,
+  "titulo": "DANÇARINA",
+  "pacote": 30
+},
+{
+  "cantor": "Péricles",
+  "cod": 31188,
+  "titulo": "MELHOR EU IR",
+  "pacote": 27
+},
+{
+  "cantor": "Pixote",
+  "cod": 31189,
+  "titulo": "VAI ERRAR DE NOVO",
+  "pacote": 27
+},
+{
+  "cantor": "Pocah, MC Mirella, Tainá Costa, Lara Silva",
+  "cod": 31204,
+  "titulo": "PASSANDO O RODO",
+  "pacote": 28
+},
+{
+  "cantor": "Priscilla Senna, Zé Vaqueiro",
+  "cod": 31190,
+  "titulo": "ALVEJANTE",
+  "pacote": 27
+},
+{
+  "cantor": "Reinaldo",
+  "cod": 31205,
+  "titulo": "RETRATO CANTADO DE UM AMOR",
+  "pacote": 28
+},
+{
+  "cantor": "Rogerinho, Wesley Safadão",
+  "cod": 31289,
+  "titulo": "TCHUCO NELA",
+  "pacote": 32
+},
+{
+  "cantor": "Roupa Nova",
+  "cod": 4102,
+  "titulo": "BEM MAIOR",
+  "pacote": 28
+},
+{
+  "cantor": "Simone & Simaria, Zé Felipe",
+  "cod": 31219,
+  "titulo": "VONTADE DE MORDER",
+  "pacote": 29
+},
+{
+  "cantor": "Simone e Simaria",
+  "cod": 31290,
+  "titulo": "AMIGA",
+  "pacote": 32
+},
+{
+  "cantor": "Skank",
+  "cod": 31220,
+  "titulo": "ALGO PARECIDO",
+  "pacote": 29
+},
+{
+  "cantor": "Skank",
+  "cod": 6763,
+  "titulo": "AMORES IMPERFEITOS",
+  "pacote": 28
+},
+{
+  "cantor": "Taryn, AURORA",
+  "cod": 31221,
+  "titulo": "MINHA INTUIÇÃO",
+  "pacote": 29
+},
+{
+  "cantor": "The Fevers",
+  "cod": 31217,
+  "titulo": "POR CAUSA DE VOCÊ",
+  "pacote": 29
+},
+{
+  "cantor": "Tierry",
+  "cod": 31191,
+  "titulo": "CABEÇA BRANCA",
+  "pacote": 27
+},
+{
+  "cantor": "Tierry",
+  "cod": 31206,
+  "titulo": "ERA TU",
+  "pacote": 28
+},
+{
+  "cantor": "Tim Maia",
+  "cod": 31291,
+  "titulo": "ELA PARTIU",
+  "pacote": 32
+},
+{
+  "cantor": "Titãs",
+  "cod": 31222,
+  "titulo": "O PULSO",
+  "pacote": 29
+},
+{
+  "cantor": "Titãs",
+  "cod": 6711,
+  "titulo": "PROVAS DE AMOR",
+  "pacote": 28
+},
+{
+  "cantor": "Trem  da Alegria",
+  "cod": 31246,
+  "titulo": "A PATINHA DA VOVÓ",
+  "pacote": 30
+},
+{
+  "cantor": "Victor e  Leo",
+  "cod": 1374,
+  "titulo": "AO VIVO E EM CORES",
+  "pacote": 31
+},
+{
+  "cantor": "Vinny",
+  "cod": 4412,
+  "titulo": "TE ENCONTRAR DE NOVO",
+  "pacote": 28
+},
+{
+  "cantor": "VMZ",
+  "cod": 31247,
+  "titulo": "PLUTÃO",
+  "pacote": 30
+},
+{
+  "cantor": "Wesley Safadão",
+  "cod": 31223,
+  "titulo": "ME SUPERA EM OFF",
+  "pacote": 29
+},
+{
+  "cantor": "Xamã",
+  "cod": 31224,
+  "titulo": "MALVADÃO 3",
+  "pacote": 29
+},
+{
+  "cantor": "Zé Felipe",
+  "cod": 31225,
+  "titulo": "MALVADA",
+  "pacote": 29
+},
+{
+  "cantor": "Zé Felipe e Marcynho Sensação",
+  "cod": 31207,
+  "titulo": "REVOADA NO COLCHÃO",
+  "pacote": 28
+},
+{
+  "cantor": "Zé Felipe, MC Danny",
+  "cod": 31192,
+  "titulo": "TOMA TOMA VAPO VAPO",
+  "pacote": 27
+},
+{
+  "cantor": "Zé Neto e Cristiano",
+  "cod": 31193,
+  "titulo": "ELA E ELA",
+  "pacote": 27
+},
+{
+  "cantor": "Zé Vaqueiro",
+  "cod": 31292,
+  "titulo": "DO PIOR JEITO",
+  "pacote": 32
+},
+{
+  "cantor": "Zé Vaqueiro",
+  "cod": 31269,
+  "titulo": "TO BEIJANDO ELA",
+  "pacote": 31
+}
 ]
 }

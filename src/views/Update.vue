@@ -1,7 +1,7 @@
 <template>
 <div >
     <p class="display-1">Atualizações</p>
-    <p>As novas atualializações, são referente ao pacote 37A até 37H, contendo ao total, {{db.length}} músicas</p>
+    <p>As mais recentes internacionais!!!</p>
   <List :searchable="false" :db="db" :loadingAllDb="true"/>
 </div>
 </template>
